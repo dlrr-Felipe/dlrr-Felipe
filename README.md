@@ -12,5 +12,5 @@ I enjoy working end to end: from data extraction and cleaning, to statistical an
 
 ## Projects
 
-
-[Email](dlrr_felipe@proton.me)
+## Contact
+- [Email](dlrr_felipe@proton.me)
